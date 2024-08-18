@@ -5,5 +5,5 @@
   <center><h3>Tablet View</h3></center>
   <img src="/images/tablet.png">
     <center><h3>Mobile View</h3></center>
-  <img src="/images/mobile.png">
+  <img src="/images/mobile.png" width="250px">
 </body>     
