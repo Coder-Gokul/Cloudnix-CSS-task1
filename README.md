@@ -3,7 +3,7 @@
   <center><h3>Desktop View</h3></center>
 <img src="/images/laptop.png">
   <center><h3>Tablet View</h3></center>
-  <img src="/images/tablet.png">
+  <img src="/images/tablet.png" width="50%">
     <center><h3>Mobile View</h3></center>
-  <img src="/images/mobile.png" width="250px">
+  <img src="/images/mobile.png" width="25%">
 </body>     
