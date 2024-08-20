@@ -26,10 +26,6 @@ body {
   overflow-x: hidden;
 }
 
-li {
-  list-style: inside;
-}
-
 #mypage-header {
   max-width: 1200px;
   margin: 0 auto;
