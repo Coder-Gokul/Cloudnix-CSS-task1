@@ -32,7 +32,7 @@
 }
 
 /* Header section */
-#mypage-header nav {
+#mypage_header nav {
   height: 100px;
   background-color: var(--bg);
   display: flex;
@@ -51,16 +51,16 @@
 
 /* middle section */
 
-#middle-section {
+#middle_section {
   display: flex;
   font-size: 1rem;
 }
 
-#mypage-leftnav {
+#mypage_leftnav {
   width: 30%;
 }
 
-#mypage-leftnav aside {
+#mypage_leftnav aside {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,7 +78,7 @@
   font-size: 1.3rem;
 }
 
-#mypage-centercontent {
+#mypage_centerContent {
   width: 70%;
 }
 
@@ -99,7 +99,7 @@
   letter-spacing: 1.5px;
 }
 
-#mypage-centercontent main {
+#mypage_centerContent main {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -111,13 +111,13 @@
   padding: 20px;
 }
 
-.centercontent {
+.center-content {
   border: 2px solid black;
   display: flex;
   flex-direction: column;
 }
 
-.centercontent ul {
+.center-content ul {
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -156,7 +156,7 @@
 }
 
 /* Footer section */
-#mypage-footer {
+#mypage_footer {
   background-color: var(--bg);
   padding: 20px;
   border-top: 6px solid var(--primary);
@@ -199,17 +199,17 @@
 
   /* middle section */
 
-  #middle-section {
+  #middle_section {
     margin: 0;
     font-size: 0.55rem;
     margin-bottom: 10px;
   }
 
-  #mypage-leftnav {
+  #mypage_leftnav {
     display: none;
   }
 
-  #mypage-centercontent {
+  #mypage_centerContent {
     width: 100%;
   }
 
@@ -222,7 +222,7 @@
     font-size: 0.6rem;
   }
 
-  #mypage-centercontent main {
+  #mypage_centerContent main {
     height: auto;
     margin: 0px;
     margin-top: 10px;
@@ -268,17 +268,17 @@
 
   /* middle section */
 
-  #middle-section {
+  #middle_section {
     margin: 0;
     font-size: 0.65rem;
     margin-bottom: 10px;
   }
 
-  #mypage-leftnav {
+  #mypage_leftnav {
     display: none;
   }
 
-  #mypage-centercontent {
+  #mypage_centerContent {
     width: 100%;
   }
 
@@ -290,7 +290,7 @@
     font-size: 0.7rem;
   }
 
-  #mypage-centercontent main {
+  #mypage_centerContent main {
     height: auto;
     margin: 0px;
     margin-top: 10px;
@@ -326,17 +326,17 @@
   }
 
   /* middle section */
-  #middle-section {
+  #middle_section {
     margin: 0;
     font-size: 0.8rem;
     margin-bottom: 10px;
   }
 
-  #mypage-leftnav {
+  #mypage_leftnav {
     display: none;
   }
 
-  #mypage-centercontent {
+  #mypage_centerContent {
     width: 100%;
   }
 
@@ -344,7 +344,7 @@
     display: block;
   }
 
-  #mypage-centercontent main {
+  #mypage_centerContent main {
     height: auto;
     margin: 0px;
     margin-top: 15px;
@@ -377,11 +377,11 @@
   }
 
   /* middle section */
-  #middle-section {
+  #middle_section {
     font-size: 0.9rem;
   }
 
-  .centercontent ul {
+  .center-content ul {
     padding: 0px;
   }
 
